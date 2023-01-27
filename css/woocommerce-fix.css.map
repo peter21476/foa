@@ -1,0 +1,9 @@
+{
+    "version": 3,
+    "mappings": "AAAA,AAAA,OAAO,CAAA,AAAA,KAAC,EAAO,gBAAgB,AAAvB,EAAyB;EAC7B,OAAO,EAAE,gBAAgB;CAC5B;;AAED,AAAA,qBAAqB,CAAC,yBAAyB,CAAC,MAAM,CAAC,SAAS,CAAC;EAC7D,OAAO,EAAE,iBAAiB;CAC7B",
+    "sources": [
+        "woocommerce-fix.scss"
+    ],
+    "names": [],
+    "file": "woocommerce-fix.css"
+}

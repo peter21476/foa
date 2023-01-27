@@ -1,0 +1,9 @@
+{
+    "version": 3,
+    "mappings": "AAAA,AAAA,cAAc,CAAC;EACX,QAAQ,EAAC,QAAQ;EACjB,OAAO,EAAC,SAAS;CASpB;;AAXD,AAGI,cAHU,CAGV,YAAY,CAAC;EACT,QAAQ,EAAC,QAAQ;EACjB,KAAK,EAAC,GAAG;CACZ;;AANL,AAOI,cAPU,CAOV,CAAC,CAAC;EACE,QAAQ,EAAC,QAAQ;EACjB,OAAO,EAAC,CAAC;CACZ",
+    "sources": [
+        "custom-blocks.scss"
+    ],
+    "names": [],
+    "file": "custom-blocks.css"
+}

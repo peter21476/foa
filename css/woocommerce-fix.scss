@@ -1,0 +1,7 @@
+.hidden[style*='display: block'] {
+    display: block !important;
+}
+
+.wc-wp-version-gte-55 #woocommerce-product-data .hndle .type_box {
+    display: inline !important;
+}
